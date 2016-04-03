@@ -1,2 +1,3 @@
-# rebar-reference
-Reference documentation for Rebar iOS and Android SDKs
+# Rebar Reference
+
+This repository serves as the source to drive our SDK documentation for both iOS and Android. 
